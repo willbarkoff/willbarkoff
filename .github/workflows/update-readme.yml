@@ -1,0 +1,40 @@
+name: Build README.md
+
+on:
+  schedule:
+    - cron: 0 5 * * *
+
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Set up Go 1.x
+      uses: actions/setup-go@v2
+      with:
+        go-version: ^1.13
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+
+    - name: Get dependencies
+      run: |
+        go get
+
+    - name: Install
+      run: |
+        go install
+
+    - name: Generate README.md
+      run: |
+        willbarkoff
+        
+    - name: Commit and push
+      run: |
+        git add .
+        git commit -m "Scheduled README.md update"
+        git push
+        
+    
