@@ -33,7 +33,12 @@ jobs:
         willbarkoff
         
     - name: Commit and push
+      env:
+        GIT_EMAIL: ${{secrets.GIT_EMAIL}} 
+        GIT_NAME: ${{secrets.GIT_NAME}}
       run: |
+        git config --global user.email "$GIT_EMAIL"
+        git config --global user.name "$GIT_NAME"
         git add .
         git commit -m "Scheduled README.md update"
         git push
