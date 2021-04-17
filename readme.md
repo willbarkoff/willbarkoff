@@ -11,4 +11,4 @@ Here are some things I've written recently.
 Read more at my website, [willbarkoff.dev](https://willbarkoff.dev).
 
 ---
-_This page was last generated on April 16, 2021 at 5:05AM_
+_This page was last generated on April 17, 2021 at 5:04AM_
