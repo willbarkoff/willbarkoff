@@ -1,9 +1,11 @@
-#### 👋 Howdy
+#### 👋 Hiya
 ##### I'm Will Barkoff, a student by day and a developer by night. I'm indecisive at dusk. 
 
 ---
 
 Here are some things I've written recently.
+
+- [Let’s talk about Ranked Choice voting](http://willbarkoff.dev/2021/06/13/ranked-choice) &mdash; _June 13, 2021_
 
 - [Code as a thing of beauty](http://willbarkoff.dev/2021/05/17/beauty) &mdash; _May 17, 2021_
 
@@ -13,4 +15,4 @@ Here are some things I've written recently.
 Read more at my website, [willbarkoff.dev](https://willbarkoff.dev).
 
 ---
-_This page was last generated on June 13, 2021 at 5:08AM_
+_This page was last generated on June 14, 2021 at 5:09AM_
