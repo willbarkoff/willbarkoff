@@ -15,4 +15,4 @@ Here are some things I've written recently.
 Read more at my website, [willbarkoff.dev](https://willbarkoff.dev).
 
 ---
-_This page was last generated on December 4, 2025 at 5:11AM_
+_This page was last generated on December 5, 2025 at 5:10AM_
