@@ -1,4 +1,4 @@
-#### 👋 G'day
+#### 👋 Hello
 ##### I'm Will Barkoff, a student by day and a developer by night. I'm indecisive at dusk. 
 
 ---
@@ -15,4 +15,4 @@ Here are some things I've written recently.
 Read more at my website, [willbarkoff.dev](https://willbarkoff.dev).
 
 ---
-_This page was last generated on July 8, 2026 at 7:21AM_
+_This page was last generated on July 9, 2026 at 8:21AM_
